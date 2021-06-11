@@ -2,7 +2,7 @@
 
 exports[`Button Component disabled operation button variant matches snapshot 1`] = `
 <button
-  className="sc-bdnxRM ljUCIL"
+  className="sc-bdnxRM eAvfgK"
   disabled={true}
 >
   Click Me
@@ -11,7 +11,7 @@ exports[`Button Component disabled operation button variant matches snapshot 1`]
 
 exports[`Button Component operation button variant matches snapshot 1`] = `
 <button
-  className="sc-bdnxRM ljUCIL"
+  className="sc-bdnxRM eAvfgK"
   disabled={false}
 >
   Click Me
@@ -20,7 +20,7 @@ exports[`Button Component operation button variant matches snapshot 1`] = `
 
 exports[`Button Component selected number button variant matches snapshot 1`] = `
 <button
-  className="sc-bdnxRM gITYun"
+  className="sc-bdnxRM hZjSyD"
   disabled={false}
 >
   Click Me
@@ -29,7 +29,7 @@ exports[`Button Component selected number button variant matches snapshot 1`] = 
 
 exports[`Button Component unselected number button variant matches snapshot 1`] = `
 <button
-  className="sc-bdnxRM kziEhz"
+  className="sc-bdnxRM kHcIqf"
   disabled={false}
 >
   Click Me
