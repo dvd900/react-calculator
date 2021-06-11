@@ -1,0 +1,6 @@
+export const COLOR1 = '#4CECFA'
+export const COLOR2 = '#4DF4E6'
+export const COLOR3 = '#6EFAC9'
+export const COLOR4 = '#99FDA9'
+export const COLOR5 = '#C8FD89'
+export const COLOR6 = '#F9F871'

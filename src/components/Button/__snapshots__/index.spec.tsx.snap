@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button Component disabled operation button variant matches snapshot 1`] = `
+<button
+  className="sc-bdnxRM ljUCIL"
+  disabled={true}
+>
+  Click Me
+</button>
+`;
+
+exports[`Button Component operation button variant matches snapshot 1`] = `
+<button
+  className="sc-bdnxRM ljUCIL"
+  disabled={false}
+>
+  Click Me
+</button>
+`;
+
+exports[`Button Component selected number button variant matches snapshot 1`] = `
+<button
+  className="sc-bdnxRM gITYun"
+  disabled={false}
+>
+  Click Me
+</button>
+`;
+
+exports[`Button Component unselected number button variant matches snapshot 1`] = `
+<button
+  className="sc-bdnxRM kziEhz"
+  disabled={false}
+>
+  Click Me
+</button>
+`;
